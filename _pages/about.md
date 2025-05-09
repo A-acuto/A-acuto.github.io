@@ -24,6 +24,12 @@ structure cosmology with numerical simulations and influence of baryons. I was p
 artificial intelligence. 
 
 
-### About this website
+## News section
+- <span style="color:#3366CC">April 2025</span>: Paper led by PhD student Adam Neal has been accepted to [IEEE CSR 2025](https://www.ieee-csr.org/)!
+- <span style="color:#3366CC">March 2025</span>: Code repository for Fusion 2025 paper has gone live, [NUTS in Stone Soup](https://github.com/UoL-SignalProcessingGroup/StoneSoupNUTS).
+
+
+---
+#### About this website
 Powered by [Jekyll](http://jekyllrb.com). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io),
  a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). Hosted on [GitHub Pages](https://pages.github.com/).
