@@ -212,7 +212,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-
+  mentoring:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -291,6 +293,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

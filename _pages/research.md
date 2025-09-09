@@ -17,8 +17,6 @@ Lead by PhD student [Wanrong Yang][wanrong] of the [Distributed Algorithm CDT][c
 and Dominik Wojtczak; under review, [arxiv link](https://arxiv.org/abs/2410.07612);  
 _Keywords: Intrusion Detection, Deep Reinforcement Learning, Cyber-Security, Cyber-Physical Systems_
 
-"Decision making in cyber-physical environments" 
-
 "Comparison between multi-target tracking algorithms in high clutter environments with probabilistic data association techniques"
 
 "Automatic literature review toolkit for evaluating societal and economical benefit"
@@ -30,6 +28,19 @@ Publications
 </h2>
 
 ## Peer-Reviewed Publications
+- "[Stone Soup Goes NUTS: Adding Proposals and the No-U-Turn Sampler to Stone Soup](https://ieeexplore.ieee.org/document/11124070)", <br />
+with [Lyudmil Vladimirov](https://www.linkedin.com/in/lyudmil-vladimirov?originalSubdomain=uk), [Alessandro Varsi](https://scholar.google.com/citations?user=F0i3ZboAAAAJ&hl=it), 
+Paul Horrdige and [Simon Maskell][smask]. <br />
+*2025 28th International Conference on Information Fusion (FUSION), Rio de Janeiro, Brazil*;<br />
+[Suggested citation](https://ieeexplore.ieee.org/document/11124070), [Code repo](https://github.com/UoL-SignalProcessingGroup/StoneSoupNUTS);<br />
+_Keywords: Target tracking, Particle Filtering, Bayesian methods_.
+
+- "[Accounting for the Impact of Real-World Data and Costs in Autonomous Cyber Defence](https://ieeexplore.ieee.org/document/11130046)"<br />
+Lead by PhD Student [Adam Neal](https://www.linkedin.com/in/adam-neal-264a34157?originalSubdomain=uk) of [Distributed Algorithm CDT][cdt], 
+with [Peter L. Green](https://scholar.google.com/citations?user=MSBOh-4AAAAJ&hl=en), [Simon Maskell][smask], Chris Lear and [Nick Hare](https://scholar.google.com/citations?hl=en&user=C09CV1UAAAAJ) from [Aleph Insights](https://alephinsights.com/).<br />
+*2025 IEEE International Conference on Cyber Security and Resilience (CSR), Chania, Crete, Greece*;<br />
+[Suggested citation](https://ieeexplore.ieee.org/document/11130046); [Best paper award](https://www.ieee-csr.org/awards/);<br />
+_Keywords: Network security, Cyber-Physical Systems, Autonomous Cyber defence_.
 
 - "[Defending the unknown: Exploring reinforcement learning agents’ deployment in realistic, unseen networks](https://ceur-ws.org/Vol-3652/paper2.pdf)"  
 with [Simon Maskell][smask] and Jack D.   

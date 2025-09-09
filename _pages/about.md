@@ -25,6 +25,8 @@ artificial intelligence.
 
 
 ## News section
+- <span style="color:#3366CC">August 2025</span>: The paper ``Accounting for the impact of real-world data and costs in autonomous cyber defence`` has won the best paper award at [IEEE CSR 2025](https://www.ieee-csr.org/awards/) :trophy:!
+- <span style="color:#3366CC">May 2025</span>: ``Stone Soup goes NUTS`` paper has been accepted for presentation at IEEE Fusion 2025!
 - <span style="color:#3366CC">April 2025</span>: Paper led by PhD student Adam Neal has been accepted to [IEEE CSR 2025](https://www.ieee-csr.org/)!
 - <span style="color:#3366CC">March 2025</span>: Code repository for Fusion 2025 paper has gone live, [NUTS in Stone Soup](https://github.com/UoL-SignalProcessingGroup/StoneSoupNUTS).
 
