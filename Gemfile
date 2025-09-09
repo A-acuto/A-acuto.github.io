@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
+  gem "jemoji"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
