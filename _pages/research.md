@@ -50,7 +50,6 @@ with [Simon Maskell][smask] and Jack D.
 [Code Repo](https://github.com/A-acuto/RLYawningTitan);   
 _Keywords: Network Security, Machine Learning, Network Simulations, Reinforcement Learning_.
 
-
 - "[The BAHAMAS project: evaluating the accuracy of the halo model in predicting the non-linear matter power spectrum](https://academic.oup.com/mnras/article/508/3/3519/6381719)"   
 with [Ian G. McCarthy](https://www.astro.ljmu.ac.uk/~igm/), [Juliana Kwan](julianakwan.github.io), 
 [Jaime Salcido](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/astrophysics-research-institute/jaime-salcido-negrete), 
@@ -58,6 +57,11 @@ with [Ian G. McCarthy](https://www.astro.ljmu.ac.uk/~igm/), [Juliana Kwan](julia
 This paper is part of [BAHAMAS ERC](https://www.astro.ljmu.ac.uk/~igm/BAHAMAS/) project. 
 Published in *MNRAS*, 2021, [suggested citation](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.3519A/exportcitation).  
 _Keywords: Dark Matter, Large-Scale Structure Cosmology, Baryonic Feedback, Analytical Models, Halo Model_.
+
+### Academic involvement
+Academic journal referee:
+- IEEE Transactions on Aerospace and Electronic Systems, [TAES](https://ieee-aess.org/publications/taes);
+- IEEE Signal processing Letters, [IEEE-SPL](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters);
 
 ### PhD Thesis
 "[Exploring the accuracy of analytic methods in predicting the evolution of large-scale structure](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=x1OW5bUAAAAJ&citation_for_view=x1OW5bUAAAAJ:u-x6o8ySG0sC)"  
