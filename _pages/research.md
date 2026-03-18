@@ -65,6 +65,13 @@ This paper is part of [BAHAMAS ERC](https://www.astro.ljmu.ac.uk/~igm/BAHAMAS/) 
 Published in *MNRAS*, 2021, [suggested citation](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.3519A/exportcitation).  
 _Keywords: Dark Matter, Large-Scale Structure Cosmology, Baryonic Feedback, Analytical Models, Halo Model_.
 
+### Academic involvement
+Academic journal referee:
+- IEEE Transactions on Aerospace and Electronic Systems, [TAES](https://ieee-aess.org/publications/taes);
+- IEEE Signal processing Letters, [IEEE-SPL](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters);
+Conference publication referee:
+- IEEE International Conference on Information Fusion 2026, [FUSION](https://www.ntnu.edu/fusion2026). 
+
 ### PhD Thesis
 "[Exploring the accuracy of analytic methods in predicting the evolution of large-scale structure](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=x1OW5bUAAAAJ&citation_for_view=x1OW5bUAAAAJ:u-x6o8ySG0sC)"  
 Supervisor Ian G. McCarthy, 2022, LJMU 
