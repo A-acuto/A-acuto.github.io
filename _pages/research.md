@@ -12,14 +12,11 @@ Active Research
 
 ### Selected Works in Progress
 
-"A Survey for Deep Reinforcement Learning Based Network Intrusion Detection",   
-Lead by PhD student [Wanrong Yang][wanrong] of the [Distributed Algorithm CDT][cdt] and with Yihang Zhou 
-and Dominik Wojtczak; under review, [arxiv link](https://arxiv.org/abs/2410.07612);  
-_Keywords: Intrusion Detection, Deep Reinforcement Learning, Cyber-Security, Cyber-Physical Systems_
-
 "Comparison between multi-target tracking algorithms in high clutter environments with probabilistic data association techniques"
 
 "Automatic literature review toolkit for evaluating societal and economical benefit"
+
+"Fixed lag particle filters in Stone Soup"
 
 _titles of the works will change when submitted_
 
@@ -28,6 +25,15 @@ Publications
 </h2>
 
 ## Peer-Reviewed Publications
+
+- "[A Survey for Deep Reinforcement Learning Based Network Intrusion Detection](https://onlinelibrary.wiley.com/doi/10.1002/ail2.70026)",   
+Lead by PhD student [Wanrong Yang][wanrong] of the [Distributed Algorithm CDT][cdt] and with Yihang Zhou 
+and Dominik Wojtczak.  <br />
+Published in *Applied AI Letters*, 2026, [Suggested citation](https://onlinelibrary.wiley.com/doi/10.1002/ail2.70026); <br />
+<!-- [arxiv link](https://arxiv.org/abs/2410.07612);-->
+_Keywords: Intrusion Detection, Deep Reinforcement Learning, Cyber-Security, Cyber-Physical Systems_.
+
+
 - "[Stone Soup Goes NUTS: Adding Proposals and the No-U-Turn Sampler to Stone Soup](https://ieeexplore.ieee.org/document/11124070)", <br />
 with [Lyudmil Vladimirov](https://www.linkedin.com/in/lyudmil-vladimirov?originalSubdomain=uk), [Alessandro Varsi](https://scholar.google.com/citations?user=F0i3ZboAAAAJ&hl=it), 
 Paul Horrdige and [Simon Maskell][smask]. <br />
@@ -50,6 +56,7 @@ with [Simon Maskell][smask] and Jack D.
 [Code Repo](https://github.com/A-acuto/RLYawningTitan);   
 _Keywords: Network Security, Machine Learning, Network Simulations, Reinforcement Learning_.
 
+
 - "[The BAHAMAS project: evaluating the accuracy of the halo model in predicting the non-linear matter power spectrum](https://academic.oup.com/mnras/article/508/3/3519/6381719)"   
 with [Ian G. McCarthy](https://www.astro.ljmu.ac.uk/~igm/), [Juliana Kwan](julianakwan.github.io), 
 [Jaime Salcido](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/astrophysics-research-institute/jaime-salcido-negrete), 
@@ -57,11 +64,6 @@ with [Ian G. McCarthy](https://www.astro.ljmu.ac.uk/~igm/), [Juliana Kwan](julia
 This paper is part of [BAHAMAS ERC](https://www.astro.ljmu.ac.uk/~igm/BAHAMAS/) project. 
 Published in *MNRAS*, 2021, [suggested citation](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.3519A/exportcitation).  
 _Keywords: Dark Matter, Large-Scale Structure Cosmology, Baryonic Feedback, Analytical Models, Halo Model_.
-
-### Academic involvement
-Academic journal referee:
-- IEEE Transactions on Aerospace and Electronic Systems, [TAES](https://ieee-aess.org/publications/taes);
-- IEEE Signal processing Letters, [IEEE-SPL](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters);
 
 ### PhD Thesis
 "[Exploring the accuracy of analytic methods in predicting the evolution of large-scale structure](https://scholar.google.com/citations?view_op=view_citation&hl=it&user=x1OW5bUAAAAJ&citation_for_view=x1OW5bUAAAAJ:u-x6o8ySG0sC)"  
