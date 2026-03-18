@@ -68,7 +68,8 @@ _Keywords: Dark Matter, Large-Scale Structure Cosmology, Baryonic Feedback, Anal
 ### Academic involvement
 Academic journal referee:
 - IEEE Transactions on Aerospace and Electronic Systems, [TAES](https://ieee-aess.org/publications/taes);
-- IEEE Signal processing Letters, [IEEE-SPL](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters);
+- IEEE Signal processing Letters, [IEEE-SPL](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters); <br />
+
 Conference publication referee:
 - IEEE International Conference on Information Fusion 2026, [FUSION](https://www.ntnu.edu/fusion2026). 
 
