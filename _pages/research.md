@@ -16,12 +16,14 @@ Active Research
 
 "Automatic literature review toolkit for evaluating societal and economical benefit"
 
-"Fixed lag particle filters in Stone Soup"
+"Neural network classification for IR/EO imagery"
+
+"Fixed lag particle filters in Stone Soup (soon available at at IEEE proceedings)"
 
 _titles of the works will change when submitted_
 
 <h2 id="pubs">
-Publications
+Publications and talks
 </h2>
 
 ## Peer-Reviewed Publications
@@ -64,6 +66,11 @@ with [Ian G. McCarthy](https://www.astro.ljmu.ac.uk/~igm/), [Juliana Kwan](julia
 This paper is part of [BAHAMAS ERC](https://www.astro.ljmu.ac.uk/~igm/BAHAMAS/) project. 
 Published in *MNRAS*, 2021, [suggested citation](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.3519A/exportcitation).  
 _Keywords: Dark Matter, Large-Scale Structure Cosmology, Baryonic Feedback, Analytical Models, Halo Model_.
+
+## Talks and presentations
+
+- "Bayesian optimisation tutorial with BoTOrch" at University of Liverpool (July 2026); [Github link](https://github.com/UoL-SignalProcessingGroup/Bay_opt_tutorial).
+- "Academic career path" presentation for LiV.INNO and Eupraxia CDT networks at University of Liverpool (July 2026); [Presentation link](https://agenda.infn.it/event/52030/contributions/302281/attachments/153635/235757/talk_090726_Acuto.pdf). 
 
 ### Academic involvement
 Academic journal referee:
